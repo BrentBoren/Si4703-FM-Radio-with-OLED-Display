@@ -1,10 +1,10 @@
 # Si4703-FM-Radio-with-OLED-Display 
  FM Radio using SFE_MicroOLED Library, [Si4703_Breakout_Modified](https://github.com/2BTechnolgy/Si4703_Breakout_Modified.git)
   library, and elapsedMillis library
-  Brent Boren @ 2B Technology
+  Brent Boren
   Original Creation Date: September 27, 2015
  
-  To Do:
+  To Do
    1. Check in Si4703_Breakout.cpp and Si4703_Breakout.h changes
     to the SparkFun GitHub repository with the changes and a working example 
     (changes break Si4703 example in readRDS section of code).
