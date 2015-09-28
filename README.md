@@ -4,13 +4,6 @@
   Brent Boren
   Original Creation Date: September 27, 2015
  
-  To Do
-   1. Check in Si4703_Breakout.cpp and Si4703_Breakout.h changes
-    to the SparkFun GitHub repository with the changes and a working example 
-    (changes break Si4703 example in readRDS section of code).
-   2. Integrate rotary encoder and new control state to allow "dial" tuning
-    similar to a car stereo.
-  
   Development environment specifics:
    Arduino 1.0.6
    Arduino Pro 3.3V, 8 MHz
@@ -32,3 +25,10 @@
   helpful, please buy them a round!
   
   Distributed as-is; no warranty is given.
+  To Do
+   1. Check in Si4703_Breakout.cpp and Si4703_Breakout.h changes
+    to the SparkFun GitHub repository with the changes and a working example 
+    (changes break Si4703 example in readRDS section of code).
+   2. Integrate rotary encoder and new control state to allow "dial" tuning
+    similar to a car stereo.
+  
