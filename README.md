@@ -13,7 +13,7 @@
     Micro OLED Breakout v1.0
     Si4703 FM Tuner Evaluation Board
     Si4703_Breakout.cpp and Si4703_Breakout.h files modified and included in
-    [Si4703_Breakout_Modified](https://github.com/2BTechnolgy/Si4703_Breakout_Modified.git)
+ [Si4703_Breakout_Modified](https://github.com/2BTechnolgy/Si4703_Breakout_Modified.git)
  
  
   Hardware Specifics:
