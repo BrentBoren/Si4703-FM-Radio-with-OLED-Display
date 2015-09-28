@@ -1,7 +1,6 @@
 # Si4703-FM-Radio-with-OLED-Display 
  FM Radio using SFE_MicroOLED Library, [Si4703_Breakout_Modified](https://github.com/2BTechnolgy/Si4703_Breakout_Modified.git)
   library, and elapsedMillis library
-
     Brent Boren
     Original Creation Date: September 27, 2015
  
